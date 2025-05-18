@@ -1,0 +1,16 @@
+[
+  {
+    "item": "Mountain Bike",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "duration": 5,
+    "date": "2025-05-12"
+  },
+  {
+    "item": "DSLR Camera",
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "duration": 3,
+    "date": "2025-05-13"
+  }
+]
